@@ -1,0 +1,6 @@
+
+[
+  {"id":1,"title":"Software Engineer","description":"Python backend development and REST API"},
+  {"id":2,"title":"Frontend Developer","description":"React and UI development"},
+  {"id":3,"title":"Data Scientist","description":"Machine learning and data analysis"}
+]

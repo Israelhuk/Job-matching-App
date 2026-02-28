@@ -1,0 +1,6 @@
+
+[
+  {"id":1,"name":"Alice","summary":"Backend developer", "skills":["python","fastapi","ml"]},
+  {"id":2,"name":"Bob","summary":"Frontend engineer", "skills":["react","css","javascript"]},
+  {"id":3,"name":"Charlie","summary":"Data scientist", "skills":["python","pandas","machine learning"]}
+]
